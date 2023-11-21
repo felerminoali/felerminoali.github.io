@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://felerminoali.github.io/</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/felermino-cv.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/slides-seminar-cea.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/Worksho-Technological-Translation.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/lxms.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/Certificate-nvidia.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/FelerminoAli-nlp-microsoft-ambassodor.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://felerminoali.github.io/assets/pdf/Deep-Learning.pdf</loc>
+  <lastmod>2023-11-04T17:19:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
